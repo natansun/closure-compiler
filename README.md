@@ -1,5 +1,5 @@
 # [Google Closure Compiler](https://developers.google.com/closure/compiler/)
-
+without sync
 Natan [![Build Status](https://travis-ci.org/google/closure-compiler.svg?branch=master)](https://travis-ci.org/google/closure-compiler)
 [![Open Source Helpers](https://www.codetriage.com/google/closure-compiler/badges/users.svg)](https://www.codetriage.com/google/closure-compiler)
 
